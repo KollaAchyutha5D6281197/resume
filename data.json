@@ -1,0 +1,46 @@
+{
+	"basicdetails":{
+		"image":"tulips.jpg",
+		"name":"k.achyutha",
+		"email":"achyutha.k28@gmail.com",
+		"phone":"9182007109",
+		"address":"4-8,kondapaturu,gntur(dt)"
+	},
+"education":[
+	{
+		"course":"b.tech(c.s.e)",
+		"college":"vignan nirula institute techonology",
+		"percentage":"7.89"
+	},
+	{
+		"course":"intermedaite",
+		"college":"sri chaitanya jr college",
+		"percentage":"8.0"
+	},
+	{
+		"course":"ssc",
+		"college":"vignan global gen high school",
+		"percentage":"7.8"
+	}
+],
+"skills":[
+           {
+           	"name":"operating systems",
+           	"value":"Windows,Linux,MAC"
+           },
+           {
+            "name":"Programming Language",
+           	"value":"C,C++,Java,Python"
+           }
+       ],
+"carrier":{
+	"ca":"I am seeking employment with a company where I can grow professionally and personally"
+},
+	"achivements":[
+		"i got first place in my school",
+		"i got second place in intermedaite"
+	],
+"description":{
+		"de":"here we are learning html through progressive web apps"
+	}
+}
